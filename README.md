@@ -1,2 +1,3 @@
 # hello-world
-My intro to repositories
+
+Short bit about me: I am a musician and like to run.
